@@ -1,4 +1,4 @@
-# Q5 
+#Q5 
 This folder contains BE18B006_BE18B011.ipynb file 
 and BE18B006_BE18B011.py files to perform classification using three binary bayes classifiers.
 It plots the given input data and its decision boundaries. It also plots their respective ROC curves.
