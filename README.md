@@ -2,7 +2,7 @@
 
 A repository for some of the code that was written for programming assignments for some of the courses I took at IIT Madras during my undergraduate studies.
 
-## Courses in the repo
+## Course Ids
 
 - BT3051 - Data Structures and Algorithms for Biology
 - CS5691 - Pattern Recognition and Machine Learning
