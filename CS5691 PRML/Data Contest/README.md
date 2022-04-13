@@ -2,7 +2,7 @@
 
 Link: https://www.kaggle.com/competitions/prml-data-contest-mkn-jul-2021/
 
-[link](https://www.kaggle.com/competitions/prml-data-contest-mkn-jul-2021/ target="_blank")
+[!](https://www.kaggle.com/competitions/prml-data-contest-mkn-jul-2021/ target="_blank")
 
 <a href="https://www.kaggle.com/competitions/prml-data-contest-mkn-jul-2021/" target="_blank">Kaggle contest link</a>
 
