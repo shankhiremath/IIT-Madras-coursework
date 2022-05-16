@@ -1,1 +1,0 @@
-The average number of words per line in the input file is: 1.9996232613197114
