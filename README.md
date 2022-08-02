@@ -5,7 +5,13 @@ A repository for the code that was written for programming assignments for cours
 ## Course Ids
 
 - BT3051 - Data Structures and Algorithms for Biology
-- CS4830 - Big Data Lab
+- CS4830 - Big Data Laboratory
 - CS5691 - Pattern Recognition and Machine Learning
-- EE4708 - Data Analytics Lab
+- EE4708 - Data Analytics Laboratory
 - MS4610 - Introduction to Data Analytics
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |
