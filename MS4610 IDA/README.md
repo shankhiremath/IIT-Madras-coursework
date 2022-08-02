@@ -1,6 +1,6 @@
 # IDA Course Project | Team-9
 
-This repo contains the final notebook as well as all the supporting files used for the analysis and decision making for the final model
+We were given a dataset of various attributes of loans taken in the past. Our task was to predict whether a borrower would default on their loan based on the attributes. This repo contains the final notebook as well as all the supporting notebooks used for the analysis and decision making for the final model.
 
 ## Authors
 
