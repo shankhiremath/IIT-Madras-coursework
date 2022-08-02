@@ -10,8 +10,8 @@ A repository for the code that was written for programming assignments for cours
 - EE4708 - Data Analytics Laboratory
 - MS4610 - Introduction to Data Analytics
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Course ID | Course |
+|---|---|
+| BT3051 | Data Structures and Algorithms for Biology | 
+|   |   | 
 |   |   |
