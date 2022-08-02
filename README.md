@@ -2,7 +2,7 @@
 
 A repository for the code that was written for programming assignments for courses that I took at IIT Madras during my undergraduate studies.
 
-## Course Ids
+## Course IDs
 
 | ID | Course |
 |---|---|
